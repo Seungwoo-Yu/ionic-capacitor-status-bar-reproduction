@@ -1,0 +1,7 @@
+{
+  "name": "status-bar-reproduction",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
